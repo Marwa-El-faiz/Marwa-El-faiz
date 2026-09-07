@@ -1,16 +1,147 @@
-<h1 align="center">Hi 👋, I'm Marwa El Faiz</h1>
-<h3 align="center">Software Engineering Student · Full-Stack Developer · Tech Explorer from Morocco</h3>
+<h1 align="center">Marwa El Faiz</h1>
 
-- 🔭 I’m currently working on [Report automation platform](https://github.com/Marwa-El-faiz/report-automation-platform)
+<h3 align="center">Software Engineering Student | Full-Stack Developer | Cloud & DevOps Enthusiast</h3>
 
-- 🌱 I’m currently learning **Currently learning Java & Spring Boot, exploring Cloud & DevOps**
-
-- 📫 How to reach me **marwaelfaiz45@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/marwa-el-faiz-6a406a330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/marwa-el-faiz-6a406a330" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Marwa-El-faiz">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/marwa-el-faiz-6a406a330/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:marwaelfaiz45@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+## About
+
+I am a Software Engineering student at ENSAH with a strong interest in building reliable, maintainable, and scalable software.
+
+My experience spans full-stack development, backend engineering, automation, and application architecture. I am currently deepening my expertise in **Java and Spring Boot** while expanding toward **Cloud Computing and DevOps**.
+
+I enjoy working on projects that solve practical problems and give me the opportunity to understand the complete software lifecycle — from development and testing to deployment and automation.
+
+---
+
+## Current Focus
+
+* Developing applications with **Java and Spring Boot**
+* Strengthening backend and software architecture skills
+* Exploring **Docker, CI/CD, Cloud Computing, and DevOps**
+* Building automation-oriented software solutions
+* Exploring practical applications of AI in software systems
+
+---
+
+## Technical Skills
+
+**Languages**
+
+`Java` `C++` `C` `Python` `JavaScript` `PHP` `SQL`
+
+**Backend & Frameworks**
+
+`Spring Boot` `Laravel` `Node.js` `REST APIs`
+
+**Frontend**
+
+`React` `Vue.js` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS`
+
+**Databases**
+
+`MySQL` `PostgreSQL` `SQLite`
+
+**DevOps & Development Tools**
+
+`Docker` `Linux` `Git` `GitHub` `Postman`
+
+**Other Technologies**
+
+`Qt` `Chart.js` `JasperReports` `Apache POI`
+
+---
+
+## Selected Projects
+
+### Report Automation Platform
+
+A full-stack industrial application designed to automate reporting workflows, from data processing to visualization and report generation.
+
+**Key areas:** Data extraction, dashboards, anomaly detection, prediction, automated reporting
+
+**Technology:** Java, Spring Boot, React, MySQL, Apache POI, JasperReports
+
+[View project →](https://github.com/Marwa-El-faiz/report-automation-platform)
+
+---
+
+### DevCollab
+
+A full-stack project management platform designed to support collaboration and task management within software development teams.
+
+**Technology:** PHP, Laravel, MySQL, JavaScript
+
+[View project →](https://github.com/Marwa-El-faiz/DevCollab)
+
+---
+
+### FoodOrbit
+
+A desktop food delivery application developed with C++ and Qt, including user management, order processing, dashboards, and an AI-powered chatbot.
+
+**Technology:** C++, Qt, SQLite
+
+[View project →](https://github.com/Marwa-El-faiz/FoodRush)
+
+---
+
+## Engineering Direction
+
+My current learning path is focused on becoming a well-rounded software engineer:
+
+```text
+Software Engineering
+        ↓
+Full-Stack Development
+        ↓
+Backend Engineering
+        ↓
+Software Architecture
+        ↓
+Automation & AI
+        ↓
+Cloud & DevOps
+```
+
+I am particularly interested in the engineering practices behind modern applications:
+
+```text
+Develop → Test → Containerize → Deploy → Monitor
+```
+
+---
+
+## Experience
+
+I have gained hands-on experience developing software in both academic and professional environments, including full-stack applications and an industrial reporting automation platform.
+
+**[View my professional experience →](YOUR_CV_LINK)**
+
+---
+
+## Let's Connect
+
+I am always interested in learning, collaborating on meaningful projects, and connecting with people working in software engineering, cloud, and DevOps.
+
+**Email:** [marwaelfaiz45@gmail.com](mailto:marwaelfaiz45@gmail.com)
+
+**LinkedIn:**
+https://www.linkedin.com/in/marwa-el-faiz-6a406a330/
+
+**GitHub:**
+https://github.com/Marwa-El-faiz
+
+---
+
+<p align="center">
+  <strong>Build with purpose. Engineer with curiosity.</strong>
+</p>
